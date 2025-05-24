@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Yash Surma (@Surmayash)
+# 👋 Hi, I’m Yash Surma
 
 🎓 A recent Computer Applications graduate and passionate **Java Developer**.  
 🚀 I specialize in **Java backend development**, and love building real-time, user-friendly web applications.
